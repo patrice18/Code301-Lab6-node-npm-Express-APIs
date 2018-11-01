@@ -1,0 +1,20 @@
+{
+  "name": "code301-lab6-node-npm-express-apis",
+  "version": "1.0.0",
+  "description": "Code301-Lab6-node-npm-Express-APIs aka Backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrice18/Code301-Lab6-node-npm-Express-APIs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patrice18/Code301-Lab6-node-npm-Express-APIs/issues"
+  },
+  "homepage": "https://github.com/patrice18/Code301-Lab6-node-npm-Express-APIs#readme"
+}
