@@ -21,6 +21,7 @@ So I am working with my own serving, requesting info from third party API, persi
 11-01-2018 7:36pm: the set up with nexessary files for fully functional application has been created. 
 11-01-2018 7:49pm: started a new node project by initiating npm with create the packge.json file.
 11-01-2018 7:49pm: installed the necessary node modules needed for the proper functioning of this application (express,                        Superagent, cors,dotenv)
+12-03-2018 10:15: sent request to wether API o get response for PAP, and response was sent successfully
 
 
 ## Credits and Collaboration
